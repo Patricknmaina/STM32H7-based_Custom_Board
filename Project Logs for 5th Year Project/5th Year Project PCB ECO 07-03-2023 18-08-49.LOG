@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=VCAP_1 Pin=C1-1
+Added Pin To Net: NetName=VCAP_1 Pin=U1-48
+Added Net: Name=VCAP_1
+Added Pin To Net: NetName=VCAP_2 Pin=C2-1
+Added Pin To Net: NetName=VCAP_2 Pin=U1-73
+Added Net: Name=VCAP_2

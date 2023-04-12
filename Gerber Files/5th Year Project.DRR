@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 5th Year Project.PcbDoc   17/03/2023  08:15:10
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 5th Year Project-RoundHoles.TXT
+ASCII SlotHoles File : 5th Year Project-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             1         PTH        0.00inch (0.00mm)
+T2      20mil (0.5mm)                                             Round             69        PTH        17.12inch (434.82mm)
+T3      26mil (0.65mm)                                            Slot              4         PTH        1.71inch (43.56mm)
+T4      32mil (0.8mm)                                             Round             10        PTH        0.71inch (18.00mm)
+T5      40mil (1.021mm)                                           Round             13        PTH        2.11inch (53.48mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              97
+
+Total Processing Time (hh:mm:ss) : 00:00:01

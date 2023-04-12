@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VBUS Pin=FB1-1
+Removed Pin From Net: NetName=+5 Pin=FB1-2
+Removed Pin From Net: NetName=GND Pin=J1-B1
+Removed Pin From Net: NetName=VBUS Pin=J1-B4
+Removed Pin From Net: NetName=GND Pin=J1-B12
+Removed Pin From Net: NetName=+3V3 Pin=U2-2
+Added Pin To Net: NetName=+5 Pin=FB1-1
+Added Pin To Net: NetName=VBUS Pin=FB1-2
+Added Pin To Net: NetName=VBUS Pin=J1-A4
+Added Pin To Net: NetName=+3V3 Pin=U2-4
