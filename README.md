@@ -13,4 +13,4 @@ For the actual PCB section, the board is a 2-layer board with the design rules a
 
 The final PCB looks like this
 
-![PCB](https://user-images.githubusercontent.com/103453226/231608764-7cbc11a1-1a54-4b34-b5c9-71818795da05.png)
+![PCB](https://user-images.githubusercontent.com/103453226/231608764-7cbc11a1-1a54-4b34-b5c9-71818795da05.png "PCB Final Layout")
